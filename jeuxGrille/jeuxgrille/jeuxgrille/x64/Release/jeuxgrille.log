@@ -1,0 +1,11 @@
+﻿  Source.cpp
+C:\Users\felix\Documents\ETS\projet_perso\jeuxGrille\jeuxgrille\affichage.h(21,16): warning C4091: 'typedef ' : ignoré à gauche de 'Image' quand aucune variable n'est déclarée
+  (compiler le fichier source 'Source.cpp')
+  
+C:\Users\felix\Documents\ETS\projet_perso\jeuxGrille\jeuxgrille\Source.cpp(86,12): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+  Génération de code en cours
+  1 of 12 functions ( 8.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Fin de la génération du code
+  jeuxgrille.vcxproj -> C:\Users\felix\Documents\ETS\projet_perso\jeuxGrille\jeuxgrille\x64\Release\jeuxgrille.exe
