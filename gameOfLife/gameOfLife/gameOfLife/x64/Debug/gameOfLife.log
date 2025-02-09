@@ -1,0 +1,10 @@
+﻿  affichage.cpp
+C:\Users\felix\Documents\ETS\projet_perso\gameOfLife\gameOfLife\affichage.h(20,16): warning C4091: 'typedef ' : ignoré à gauche de 'Image' quand aucune variable n'est déclarée
+  (compiler le fichier source 'affichage.cpp')
+  
+C:\Users\felix\Documents\ETS\projet_perso\gameOfLife\gameOfLife\affichage.cpp(42,11): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+C:\Users\felix\Documents\ETS\projet_perso\gameOfLife\gameOfLife\affichage.cpp(60,11): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+C:\Users\felix\Documents\ETS\projet_perso\gameOfLife\gameOfLife\affichage.cpp(77,11): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+C:\Users\felix\Documents\ETS\projet_perso\gameOfLife\gameOfLife\affichage.cpp(90,11): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+C:\Users\felix\Documents\ETS\projet_perso\gameOfLife\gameOfLife\affichage.cpp(176,11): warning C4018: '<' : incompatibilité signed/unsigned
+  gameOfLife.vcxproj -> C:\Users\felix\Documents\ETS\projet_perso\gameOfLife\gameOfLife\x64\Debug\gameOfLife.exe
